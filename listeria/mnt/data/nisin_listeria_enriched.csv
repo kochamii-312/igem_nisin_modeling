@@ -1,0 +1,64 @@
+﻿名前,Medium,time_h,nisin_ug_per_ml,growth_temp_C,log_CFU_per_mL,基準,response_value,pH,response_type
+,Orange Juice,48,2000,4,0.002,5,4.998,3.81,log_reduction
+,Orange Juice,48,1000,4,0.013,5,4.987,3.81,log_reduction
+,Orange Juice,48,0,4,3.155,5,1.845,3.81,log_reduction
+,Orange Juice,30,2000,4,0.004,5,4.996,3.81,log_reduction
+,Orange Juice,30,1000,4,0.025,5,4.975,3.81,log_reduction
+,Orange Juice,30,0,4,3.972,5,1.028,3.81,log_reduction
+,Orange Juice,24,2000,4,0.01,5,4.99,3.81,log_reduction
+,Orange Juice,24,1000,4,0.158,5,4.842,3.81,log_reduction
+,Orange Juice,24,0,4,3.972,5,1.028,3.81,log_reduction
+,Orange Juice,6,2000,4,0.629,5,4.371,3.81,log_reduction
+,Orange Juice,6,1000,4,1.256,5,3.744,3.81,log_reduction
+,Orange Juice,6,0,4,4.456,5,0.544,3.81,log_reduction
+,Orange Juice,0,2000,4,5,5,0,3.81,log_reduction
+,Orange Juice,0,1000,4,5,5,0,3.81,log_reduction
+,Orange Juice,0,0,4,5,5,0,3.81,log_reduction
+,Broth,360,2,6,7.5,8.7,1.2,6.5,log_reduction
+,Broth,360,2,6,6.1,8.1,2,6,log_reduction
+,Broth,360,2,6,7.25,8,0.75,5.5,log_reduction
+,Broth,192,2,6,6.2,8.7,2.5,6.5,log_reduction
+,Broth,192,2,6,6,8.1,2.1,6,log_reduction
+,Broth,192,2,6,7.2,8,0.8,5.5,log_reduction
+,Broth,48,2,6,6.4,8.7,2.3,6.5,log_reduction
+,Broth,48,2,6,6.9,8.1,1.2,6,log_reduction
+,Broth,48,2,6,7.7,8,0.3,5.5,log_reduction
+,Broth,0,2,6,8.7,8.7,0,6.5,log_reduction
+,Broth,0,2,6,8.1,8.1,0,6,log_reduction
+,Broth,0,2,6,8,8,0,5.5,log_reduction
+,Broth,360,2,6,7.5,8.7,1.2,6.5,log_reduction
+,Broth,192,2,6,6.2,8.7,2.5,6.5,log_reduction
+,Broth,48,2,6,6.35,8.7,2.35,6.5,log_reduction
+,Broth,0,2,6,8.7,8.7,0,6.5,log_reduction
+,Apple,168,10,10,1.78,2.35,0.57,4.4,log_reduction
+,Apple,168,5,10,2.99,2.55,-0.44,4.4,log_reduction
+,Apple,168,0.025,10,3.95,3.04,-0.91,4.4,log_reduction
+,Apple,120,10,10,1.35,2.35,1,4.4,log_reduction
+,Apple,120,5,10,2.4,2.55,0.15,4.4,log_reduction
+,Apple,120,0.025,10,3.68,3.04,-0.64,4.4,log_reduction
+,Apple,48,10,10,0.79,2.35,1.56,4.4,log_reduction
+,Apple,48,5,10,2.02,2.55,0.53,4.4,log_reduction
+,Apple,48,0.025,10,2.9,3.04,0.14,4.4,log_reduction
+,Apple,0,10,10,2.35,2.35,0,4.4,log_reduction
+,Apple,0,5,10,2.55,2.55,0,4.4,log_reduction
+,Apple,0,0.025,10,3.04,3.04,0,4.4,log_reduction
+,Melon,168,10,10,5,0.95,-4.05,5.8,log_reduction
+,Melon,168,5,10,5.37,2,-3.37,5.8,log_reduction
+,Melon,168,0.025,10,7.37,3.55,-3.82,5.8,log_reduction
+,Melon,120,10,10,4.78,0.95,-3.83,5.8,log_reduction
+,Melon,120,5,10,5.28,2,-3.28,5.8,log_reduction
+,Melon,120,0.025,10,7.27,3.55,-3.72,5.8,log_reduction
+,Melon,48,10,10,2.82,0.95,-1.87,5.8,log_reduction
+,Melon,48,5,10,3.46,2,-1.46,5.8,log_reduction
+,Melon,48,0.025,10,4.74,3.55,-1.19,5.8,log_reduction
+,Melon,0,10,10,0.95,0.95,0,5.8,log_reduction
+,Melon,0,5,10,2,2,0,5.8,log_reduction
+,Melon,0,0.025,10,3.55,3.55,0,5.8,log_reduction
+,Broth,360,2,14,8.75,9,0.25,6.5,log_reduction
+,Broth,192,2,14,8.4,9,0.6,6.5,log_reduction
+,Broth,48,2,14,6.25,9,2.75,6.5,log_reduction
+,Broth,0,2,14,9,9,0,6.5,log_reduction
+,Broth,360,2,22,8.85,8.8,-0.05,6.5,log_reduction
+,Broth,192,2,22,8.9,8.8,-0.1,6.5,log_reduction
+,Broth,48,2,22,6.9,8.8,1.9,6.5,log_reduction
+,Broth,0,2,22,8.8,8.8,0,6.5,log_reduction
